@@ -1,6 +1,10 @@
 |PyPI version| |Docs badge| |Build Status|
 
 *******
+
+.. image:: https://badges.production.guardrails.io/r0flc0pt4/ansible.svg
+   :alt: GuardRails badge
+   :target: https://www.guardrails.io
 Ansible
 *******
 
